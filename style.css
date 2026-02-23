@@ -697,3 +697,7 @@ input, textarea { width: 100%; padding: 1rem; background: rgba(255,255,255,0.1);
         text-align: center;
     }
 }
+
+html {
+    scroll-behavior: smooth;
+}
